@@ -1,3 +1,40 @@
-body{
+body {
+
+    height: 5000px;
     background-color: rgba(0, 0, 0, 0.751) !important;
+}
+
+.logo {
+    font-family: "Yeseva One", serif;
+}
+
+nav {
+    opacity: 0.99;
+    border-bottom: solid rgba(245, 222, 179, 0.087) 0.5px;
+}
+
+.waterMark {
+    font-family: "Yeseva One", serif;
+    font-size: 20rem;
+    font-weight: 900;
+    color: transparent;
+    -webkit-text-stroke: 2px rgba(78, 70, 70, 0.372);
+
+}
+
+.special {
+    color: rgb(245, 200, 66);
+}
+
+.partOne {
+    font-family: Fraunces, Georgia, serif;
+    font-weight: bolder;
+}
+
+.Ava {
+    border: solid 1px rgb(245, 200, 66);
+    border-radius: 20px;
+    color: rgb(245, 200, 66);
+    background-color: rgb(245, 200, 66, 0.1);
+
 }
